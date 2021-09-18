@@ -4,3 +4,6 @@
 [submodule "micro_app_login"]
 	path = micro_app_login
 	url = https://github.com/juanprog/-Advanced-micro-app-login.git
+[submodule "micro_core"]
+	path = micro_core
+	url = https://github.com/juanprog/-Advanced-micro-core.git
