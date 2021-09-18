@@ -1,3 +1,6 @@
 [submodule "base_app"]
 	path = base_app
 	url = https://github.com/juanprog/-Advanced-base-app.git
+[submodule "micro_app_login"]
+	path = micro_app_login
+	url = https://github.com/juanprog/-Advanced-micro-app-login.git
