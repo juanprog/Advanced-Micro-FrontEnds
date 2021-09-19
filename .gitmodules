@@ -7,3 +7,9 @@
 [submodule "micro_core"]
 	path = micro_core
 	url = https://github.com/juanprog/-Advanced-micro-core.git
+[submodule "micro_app_home"]
+	path = micro_app_home
+	url = https://github.com/juanprog/-Advanced-micro-app-home.git
+[submodule "micro_commons_design_system"]
+	path = micro_commons_design_system
+	url = https://github.com/juanprog/-Advanced-Micro-Commons-Design-System.git
